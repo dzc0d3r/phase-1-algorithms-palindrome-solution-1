@@ -6,10 +6,12 @@ function isPalindrome(word) {
 
 /* 
   Add your pseudocode here
+  too lazy to write it everytime DRY OR DIE
 */
 
 /*
   Add written explanation of your solution here
+  too lazy to write it everytime DRY OR DIE
 */
 
 // You can run `node index.js` to view these console logs
